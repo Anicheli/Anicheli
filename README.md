@@ -19,3 +19,5 @@
   
 </div>
 
+
+![Snake animation](https://github.com/AlyssonOliveiraSantos/AlyssonOliveiraSantos/blob/output/github-contribution-grid-snake.svg)
